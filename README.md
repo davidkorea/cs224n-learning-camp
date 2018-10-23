@@ -60,7 +60,7 @@
 - 周三、周六休息^_^     
 ### Week1
 1. 自然语言处理和深度学习简介  
-- **课件:** [lecture01](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture1.pdf)
+- **课件:** [lecture01](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture1.pdf) √
 - [观看视频1](https://www.bilibili.com/video/av30326868/?spm_id_from=333.788.videocard.0)
 - **学习笔记**：[自然语言处理与深度学习简介](http://www.hankcs.com/nlp/cs224n-introduction-to-nlp-and-deep-learning.html)
 
